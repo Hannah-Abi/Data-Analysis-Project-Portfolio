@@ -1,7 +1,7 @@
 ## Data-Analysis-Project-Portfolio
 I added all of my data analysis projects in this repository
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
+| No.      | Column 2 | Column 3 | Column 4 |
 |----------|----------|----------|----------|
 | Data 1,1 | Data 1,2 | Data 1,3 | Data 1,4 |
 | Data 2,1 | Data 2,2 | Data 2,3 | Data 2,4 |
