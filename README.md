@@ -8,3 +8,8 @@ I added all of my data analysis projects in this repository
 | 3   | [Sales KPI metrics for Wolt](https://github.com/Hannah-Abi/Sales-KPIs---delivery-service) | SQL (EDA), Looker (Data Visualisation) |postgresql  | Advanced |
 
 
+| No. | Prokect | Tools | Software | Level |
+|----------|----------|----------|----------|----------|
+| 1 | [Sales KPI metrics for Wolt](https://github.com/Hannah-Abi/Sales-KPIs---delivery-service)| Data 1,3 | Data 1,4 | Data 1,5 |
+| 2 | [User Segmentation with RFM score](https://github.com/Hannah-Abi/user-segmentation-analysis-Wolt) | Data 2,3 | Data 2,4 | Data 2,5 |
+| 3 | [Sales KPI metrics for Wolt](https://github.com/Hannah-Abi/Sales-KPIs---delivery-service) | Data 3,3 | Data 3,4 | Data 3,5 |
