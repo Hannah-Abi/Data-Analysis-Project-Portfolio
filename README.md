@@ -1,5 +1,6 @@
 ## Data-Analysis-Project-Portfolio
-I added all of my data analysis projects in this repository
+
+This portfolio showcases a variety of projects, encompassing course final projects, personal interests, collaborations with other data analyst, and also student business project for projects real company.
 
 | No. | Project | Tools | Software | Level |
 |----------|----------|----------|----------|----------|
