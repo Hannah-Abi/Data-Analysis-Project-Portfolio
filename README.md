@@ -1,6 +1,6 @@
 ## Data-Analysis-Project-Portfolio
 
-This portfolio showcases a variety of projects, encompassing course final projects, personal interests, collaborations with other data analyst, and also student business project for projects real company.
+This portfolio showcases a variety of projects, encompassing course final projects, personal interests, collaborations with other data analyst, and also student business project for the Aalto's partner companies
 
 | No. | Project | Tools | Software | Level |
 |----------|----------|----------|----------|----------|
