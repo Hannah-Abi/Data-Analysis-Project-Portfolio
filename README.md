@@ -6,5 +6,6 @@ This portfolio showcases a variety of projects, encompassing course final projec
 |----------|----------|----------|----------|----------|
 | 1 | [Sales KPI metrics for Wolt](https://github.com/Hannah-Abi/Sales-KPIs---delivery-service)| SQL | postgresql | Advanced |
 | 2 | [User Segmentation with RFM score](https://github.com/Hannah-Abi/user-segmentation-analysis-Wolt) | Python | JupiterNotebook | Advanced |
-| 3 | [Road Safety - Tableau Analytics Challene](https://github.com/Hannah-Abi/Road-Safety-in-Finland) | Tableau | Tableau | Intermmediate |
-| 4 | [Real-time Insights from Twitter data](https://github.com/Hannah-Abi/Twitter-a-hot-trend) | python | JupiterNotebook | Intermmediate |
+| 3 | [Supercell Game User Analysis](https://github.com/Hannah-Abi/mobile-game-analytics) | Python | JupiterNotebook | Advanced |
+| 4 | [Road Safety - Tableau Analytics Challene](https://github.com/Hannah-Abi/Road-Safety-in-Finland) | Tableau | Tableau | Intermmediate |
+| 5 | [Real-time Insights from Twitter data](https://github.com/Hannah-Abi/Twitter-a-hot-trend) | python | JupiterNotebook | Intermmediate |
