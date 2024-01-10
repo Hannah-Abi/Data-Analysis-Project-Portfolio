@@ -11,7 +11,7 @@ Data Analysis in Python & SQL
 | 3 | [Supercell Game User Analysis](https://github.com/Hannah-Abi/mobile-game-analytics) | Python | JupiterNotebook | Advanced |
 | 5 | [Real-time Insights from Twitter data](https://github.com/Hannah-Abi/Twitter-a-hot-trend) | python | JupiterNotebook | Intermmediate |
 
-Data Analysis in Power BI & Tableau
+Data Analysis in Power BI & Tableau (Checck all Power BI Project in [here](https://github.com/Hannah-Abi/Power-BI-Data-Analysis-Projects.git)
 
 | No. | Project | Tools | Software | Level |
 |----------|----------|----------|----------|----------|
