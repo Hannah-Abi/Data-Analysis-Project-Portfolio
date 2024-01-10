@@ -17,3 +17,4 @@ Data Analysis in Power BI & Tableau
 |----------|----------|----------|----------|----------|
 | 1 | [Road Safety - Tableau Analytics Challene](https://github.com/Hannah-Abi/Road-Safety-in-Finland) | Tableau | Tableau | Intermmediate |
 | 2 | [Customer Churn Analysis](https://github.com/Hannah-Abi/Power-BI-Data-Analysis-Projects/tree/2909f84d1371ce23f4d772c2df6512b47ea8fed4/Customer%20Churn%20Analysis) | Power BI Desktop | Power BI Desktop | Intermmediate |
+| 3 | [Customer Churn Analysis](https://github.com/Hannah-Abi/Power-BI-Data-Analysis-Projects/tree/201891352e317bbc792f7cd897a9ca08cb7fec9c/Inventory%20Analysis) | Power BI Desktop | Power BI Desktop | Intermmediate |
