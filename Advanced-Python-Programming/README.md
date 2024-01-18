@@ -7,8 +7,8 @@ There are 6 parts in this course
 #### Part 8 
 | Section | Objectives |
 |----------|----------|
-| Objects and Methods | what an object is in programming<br>What is the independence of individual objects<br>How to Create and access objects |
-| Objects and Classes | what a class is<br>what isthe independence of individual objects<br>Hthe connection between a class and an object |
+| Objects and Methods | 1- what an object is in programming<br>- What is the independence of individual objects<br>- How to create and access objects |
+| Objects and Classes | 1- what a class is<br>2- what isthe independence of individual objects<br>3- the connection between a class and an object |
 
 
 
