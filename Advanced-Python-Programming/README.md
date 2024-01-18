@@ -45,4 +45,10 @@ There are 6 parts in this course
 | Generators            | - Understand what a Python generator is                        <br>- Be familiar with the keyword 'yield'                         <br>- Write your own generator functions                           |
 | Functional programming | - Understand the concept of functional programming               <br>- Make use of the functions `map`, `reduce`, and `filter` in your own programs |
 | Regular expressions    | - Understand what regular expressions are                       <br>- Use regular expressions in your own programs                 |
-
+#### Part 13 - Pygame Techniques
+| Section                | Objectives                                                            |
+|------------------------|-----------------------------------------------------------------------|
+| Pygame                 | - Install the pygame library on the computer                           <br>- Create a pygame window and understand how to exit a program         <br>- Incorporate an image stored in a file within a pygame window         |
+| Animation              | - Generate animations using pygame                                     <br>- Employ a clock to control the program's speed                        <br>- Apply basic trigonometric functions in animations                    |
+| Events                 | - Familiarize yourself with pygame events                               <br>- Develop programs responsive to key presses                            <br>- Create programs responsive to mouse events                           |
+| More pygame techniques | - Understand how to set the title of the pygame window                  <br>- Draw shapes using pygame                                             <br>- Display text in the pygame window                                    |
