@@ -21,18 +21,11 @@ There are 6 parts in this course
 | 5. Class attributes | 1. The terms **class variable** and **class method**<br>2. How static traits are different from the traits of instances<br>3. How to add static traits to your own classes |
 
 #### Part 10 - Larger Application Development 
-| Section                             | Objectives                                                          |
-|--------------------------------------|---------------------------------------------------------------------|
-| Class Hierarchies                   | Understand what inheritance means in a programming context.         |
-|                                     | Be able to write classes that inherit from other classes.          |
-|                                     | Understand how inheritance affects the traits in classes.          |
-| Access Modifiers                    | Understand the concepts of private and protected access modifiers.|
-|                                     | Know how the visibility of traits is determined in Python.         |
-| Object-Oriented Programming         | Be familiar with different uses for the variable name "self."      |
-| Techniques                          | Know how to overload operators in your own classes.                |
-|                                     | Be able to create an iterable class.                                |
-| Developing a Larger Application     | Understand basic principles of application development.            |
-|                                     | Differentiate between different parts of an application            |
-|                                     | (user interface, program logic, and file handling).                |
-|                                     | Practice writing a somewhat larger application.                     |
+| Section                             | Objectives                                                      |
+|--------------------------------------|-----------------------------------------------------------------|
+| Class Hierarchies                   | - Understand the concept of inheritance in programming contexts.<br>- Write classes that inherit from other classes.<br>- Understand how inheritance affects traits in classes.       |
+| Access Modifiers                    | - Understand the concepts of private and protected access modifiers.<br>- Know how visibility of traits is determined in Python.       |
+| Object-Oriented Programming         | - Be familiar with different uses for the variable name "self."<br>- Know how to overload operators in your classes.<br>- Be able to create an iterable class. |
+| Techniques                          | - Understand basic principles of application development.<br>- Differentiate between parts of an application (user interface, program logic, and file handling).<br>- Practice writing somewhat larger applications. |
+
 
