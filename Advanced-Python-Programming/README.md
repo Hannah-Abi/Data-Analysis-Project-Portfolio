@@ -1,4 +1,4 @@
-**_I completed this course in 2021 far before the chat GPT even exicsted. For my peer, PLEASE try to complete exercises before cloning my repo_**
+**_I completed this course in 2021 far before the chat GPT even exicsted. For my peer, PLEASE try to complete exercises BY YOURSELF before cloning my repo_**
 ## Python Programming - Department  of Computer Science at University of Helsinki
 - The **Intro** file for the course the **Introduction to Programming course (TKT10002, 5 cr)**
   
@@ -30,4 +30,19 @@ There are 6 parts in this course
 | Object-Oriented Programming         | - Be familiar with different uses for the variable name "self."<br>- Know how to overload operators in your classes.<br>- Be able to create an iterable class. |
 | Techniques                          | - Understand basic principles of application development.<br>- Differentiate between parts of an application (user interface, program logic, and file handling).<br>- Practice writing somewhat larger applications. |
 
+#### Part 11 - Recursive ALgorithms
+| Section                  | Objectives                                                   |
+|--------------------------|--------------------------------------------------------------|
+| List Comprehensions      | - Understand the concept of list comprehensions.<br>- Utilize list comprehensions to create new lists. |
+| More Comprehensions      | - Use comprehensions with strings.<br>- Apply comprehensions with your own classes.<br>- Create dictionary comprehensions. |
+| Recursion                | - Understand the concept of recursion.<br>- Write a simple recursive function.<br>- Be familiar with binary trees and recursive algorithms used to process them. |
+| More Recursion Examples  | - Explore different examples and applications of recursion.  |
+
+#### Part 12 - Functional Programming
+| Section               | Objectives                                                    |
+|-----------------------|---------------------------------------------------------------|
+| Functions as arguments | - Sort lists according to different criteria                  <br>- Understand what a lambda expression is                     <br>- Utilize lambda expressions with other Python functions     <br>- Understand how a function is passed as an argument            |
+| Generators            | - Understand what a Python generator is                        <br>- Be familiar with the keyword 'yield'                         <br>- Write your own generator functions                           |
+| Functional programming | - Understand the concept of functional programming               <br>- Make use of the functions `map`, `reduce`, and `filter` in your own programs |
+| Regular expressions    | - Understand what regular expressions are                       <br>- Use regular expressions in your own programs                 |
 
