@@ -17,7 +17,7 @@ There are 6 parts in this course
 | 1. Objects and references | 1. Use different data structures for handling objects<br>2. Pass objects as argumentss |
 | 2. Objects as attributes | 1. How to use objects as attributes in other objects<br>2.  The keyword ```None``` |
 | 3. Encapsulation | 1. What is encapsulation<br>2. Create private attributes<br>3. Create ```getters``` and ```setters``` for your attributes |
-| 4. Scope of methods | 1. what a class is<br>2. what isthe independence of individual objects<br>3. The connection between a class and an object |
-| 5. Class attributes | 1. what a class is<br>2. what isthe independence of individual objects<br>3. The connection between a class and an object |
+| 4. Scope of methods | 1. Limit the visibility of a method in Python<br>2. How to write private methods |
+| 5. Class attributes | 1. The terms **class variable** and **class method**<br>2. How static traits are different from the traits of instances<br>3. How to add static traits to your own classes |
 
 
