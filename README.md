@@ -1,3 +1,6 @@
+### Course 
+Those courses mafe my solid background in Python Programming and Data Analysis with Python. They are designed for Data Science master's students in University of Helsinki. 
+**NOTE: To my peer, PLEASSE do the assignment BY YOURSELF before checking the answer(cloning my repo)**
 ## Data-Analysis-Project-Portfolio
 
 This portfolio showcases a variety of projects, encompassing course final projects, personal interests, collaborations with other data analyst, and also student business project for the Aalto's partner companies
