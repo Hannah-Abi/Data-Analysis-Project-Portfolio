@@ -5,20 +5,22 @@
 ### The Advanced Python Programming course (TKT10003, 5 cr)
 There are 6 parts in this course 
 #### Part 8 - Defining objects
-| Section | Objectives |
-|----------|----------|
-| Objects and Methods | 1. what an object is in programming<br>2. What is the independence of individual objects<br>3. How to create and access objects |
-| Objects and Classes | 1. what a class is<br>2. what isthe independence of individual objects<br>3. The connection between a class and an object |
-| Defining classes | 1. Define your own classes<br>2. How create objects based on classes you've defined yourself<br>3. How to write a constructor<br>4. The parameter name ```self```<br>5. what attributes are and how they are used |
+| Section                 | Objectives                                                   |
+|--------------------------|--------------------------------------------------------------|
+| Objects and Methods      | 1. Understand the concept of an object in programming.<br>2. Explore the independence of individual objects.<br>3. Learn to create and access objects. |
+| Objects and Classes      | 1. Grasp the definition of a class in programming.<br>2. Explore the independence of individual objects.<br>3. Understand the relationship between a class and an object. |
+| Defining Classes         | 1. Define your own classes in a programming context.<br>2. Create objects based on classes you've defined.<br>3. Learn how to write a constructor.<br>4. Understand the role of the parameter name `self`.<br>5. Explore what attributes are and how they are utilized. |
+
 
 #### Part 9 - Objects and Classes
-| Section | Objectives |
-|----------|----------|
-| 1. Objects and references | 1. Use different data structures for handling objects<br>2. Pass objects as argumentss |
-| 2. Objects as attributes | 1. How to use objects as attributes in other objects<br>2.  The keyword ```None``` |
-| 3. Encapsulation | 1. What is encapsulation<br>2. Create private attributes<br>3. Create ```getters``` and ```setters``` for your attributes |
-| 4. Scope of methods | 1. Limit the visibility of a method in Python<br>2. How to write private methods |
-| 5. Class attributes | 1. The terms **class variable** and **class method**<br>2. How static traits are different from the traits of instances<br>3. How to add static traits to your own classes |
+| Section                  | Objectives                                              |
+|---------------------------|---------------------------------------------------------|
+| Objects and References    | 1. Utilize diverse data structures for managing objects.<br>2. Pass objects as arguments. |
+| Objects as Attributes     | 1. Implement the use of objects as attributes in other objects.<br>2. Understand the use of the keyword `None`. |
+| Encapsulation            | 1. Grasp the concept of encapsulation in programming.<br>2. Create private attributes.<br>3. Implement `getters` and `setters` for attributes. |
+| Scope of Methods          | 1. Control the visibility of methods in Python.<br>2. Implement private methods. |
+| Class Attributes          | 1. Understand the terms "class variable" and "class method".<br>2. Differentiate static traits from instance traits.<br>3. Add static traits to your own classes. |
+
 
 #### Part 10 - Larger Application Development 
 | Section                             | Objectives                                                      |
