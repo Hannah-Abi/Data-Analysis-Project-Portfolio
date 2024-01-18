@@ -1,4 +1,4 @@
-## Two added courses
+## About Two added courses: Python Programming & Data Analysis with Python
 The courses pushed above have fortified my foundation in Python Programming and Data Analysis within the context of a curriculum tailored for Data Science master's students at the University of Helsinki.
 **NOTE: To my peer, PLEASSE do the assignment BY YOURSELF before checking the answer(cloning my repo)**
 ## Data-Analysis-Project-Portfolio
