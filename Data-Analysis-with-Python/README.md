@@ -3,12 +3,12 @@
 <br>It is recommended that you do this course in the end of bachelor degree or in the beginning of masters degree; preferably before the course “Introduction to Data Science”.
 
 ## What you will learn 
-### Python programs
+  ### Python programs
 After the course, you can confidently write basic level Python programs without constantly consulting language/library documentation.
 
-### Machine learning types
-After the course, you will know the main types of machine learning: supervised learning: regression and classification, unsupervised learning: clustering, dimensionality reduction, (density estimation)
-### Data analysis projects
+  ### Machine learning types
+After the course, you will know the main types of machine learning: supervised learning: regression and classification, unsupervised learning:   clustering, dimensionality reduction, (density estimation)
+  ### Data analysis projects
 After the course, you can apply basic data analysis skills to a simple project on an application field
 
 ## About this course
