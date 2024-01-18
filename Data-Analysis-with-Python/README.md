@@ -1,5 +1,5 @@
 ## Timing and scope
-**NOTE** :This is the advanced course for Data Science students who are passionate about Data Analytics
+**NOTE**: This is the advanced course for Data Science students who are passionate about Data Analytics
 <br>It is recommended that you do this course in the end of bachelor degree or in the beginning of masters degree; preferably before the course “Introduction to Data Science”.
 
 ## What you will learn 
