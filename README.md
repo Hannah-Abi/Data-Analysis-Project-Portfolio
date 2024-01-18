@@ -1,5 +1,5 @@
-### Course 
-Those courses mafe my solid background in Python Programming and Data Analysis with Python. They are designed for Data Science master's students in University of Helsinki. 
+## Two added courses
+The courses pushed above have fortified my foundation in Python Programming and Data Analysis within the context of a curriculum tailored for Data Science master's students at the University of Helsinki.
 **NOTE: To my peer, PLEASSE do the assignment BY YOURSELF before checking the answer(cloning my repo)**
 ## Data-Analysis-Project-Portfolio
 
