@@ -1,2 +1,3 @@
 ## Python Programming 2021
-This is the course for the Introduction to Programming course (TKT10002, 5 cr) and the Advanced Course in Programming (TKT10003, 5 cr) from the Department of Computer Science at the University of Helsinki.
+- The **Intro** file for the course the **Introduction to Programming course (TKT10002, 5 cr)**
+- **The Advanced Course in Programming (TKT10003, 5 cr)** the Department of Computer Science at the University of Helsinki.
