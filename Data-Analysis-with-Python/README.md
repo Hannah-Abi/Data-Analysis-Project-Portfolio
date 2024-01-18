@@ -3,7 +3,7 @@
 <br>It is recommended that you do this course in the end of bachelor degree or in the beginning of masters degree; preferably before the course “Introduction to Data Science”.
 
 ## What you will learn 
-  ### 1. Python programs
+  1. ### Python programs
 After the course, you can confidently write basic level Python programs without constantly consulting language/library documentation.
 
   2. ### Machine learning types
