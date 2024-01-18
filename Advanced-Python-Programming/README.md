@@ -9,10 +9,6 @@ There are 6 parts in this course
 |----------|----------|
 | Objects and Methods | 1. what an object is in programming<br>2. What is the independence of individual objects<br>3. How to create and access objects |
 | Objects and Classes | 1. what a class is<br>2. what isthe independence of individual objects<br>3. The connection between a class and an object |
-| Defining classes | <br>define your own classes
-<br>how create objects based on classes you've defined yourself
-<br>how to write a constructor
-<br>the parameter name ```self```
-<br>what attributes are and how they are used |
+| Defining classes | <br>define your own classes<br>how create objects based on classes you've defined yourself<br>how to write a constructor<br>the parameter name ```self```<br>what attributes are and how they are used |
 
 
