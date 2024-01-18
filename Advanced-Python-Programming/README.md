@@ -7,19 +7,19 @@ There are 6 parts in this course
 #### Part 8 - Defining objects
 | Section                 | Objectives                                                   |
 |--------------------------|--------------------------------------------------------------|
-| Objects and Methods      | 1. Understand the concept of an object in programming.<br>2. Explore the independence of individual objects.<br>3. Learn to create and access objects. |
-| Objects and Classes      | 1. Grasp the definition of a class in programming.<br>2. Explore the independence of individual objects.<br>3. Understand the relationship between a class and an object. |
-| Defining Classes         | 1. Define your own classes in a programming context.<br>2. Create objects based on classes you've defined.<br>3. Learn how to write a constructor.<br>4. Understand the role of the parameter name `self`.<br>5. Explore what attributes are and how they are utilized. |
-
+| Objects and Methods      | - Understand the concept of an object in programming.<br>- Explore the independence of individual objects.<br>- Learn to create and access objects. |
+| Objects and Classes      | - Grasp the definition of a class in programming.<br>- Explore the independence of individual objects.<br>- Understand the relationship between a class and an object. |
+| Defining Classes         | - Define your own classes in a programming context.<br>- Create objects based on classes you've defined.<br>- Learn how to write a constructor.<br>- Understand the role of the parameter name `self`.<br>- Explore what attributes are and how they are utilized. |
 
 #### Part 9 - Objects and Classes
-| Section                  | Objectives                                              |
-|---------------------------|---------------------------------------------------------|
-| Objects and References    | 1. Utilize diverse data structures for managing objects.<br>2. Pass objects as arguments. |
-| Objects as Attributes     | 1. Implement the use of objects as attributes in other objects.<br>2. Understand the use of the keyword `None`. |
-| Encapsulation            | 1. Grasp the concept of encapsulation in programming.<br>2. Create private attributes.<br>3. Implement `getters` and `setters` for attributes. |
-| Scope of Methods          | 1. Control the visibility of methods in Python.<br>2. Implement private methods. |
-| Class Attributes          | 1. Understand the terms "class variable" and "class method".<br>2. Differentiate static traits from instance traits.<br>3. Add static traits to your own classes. |
+| Section                 | Objectives                                                   |
+|--------------------------|--------------------------------------------------------------|
+| Objects and References   | - Utilize diverse data structures for managing objects.<br>- Pass objects as arguments. |
+| Objects as Attributes    | - Implement the use of objects as attributes in other objects.<br>- Understand the use of the keyword `None`. |
+| Encapsulation           | - Grasp the concept of encapsulation in programming.<br>- Create private attributes.<br>- Implement `getters` and `setters` for attributes. |
+| Scope of Methods         | - Control the visibility of methods in Python.<br>- Implement private methods. |
+| Class Attributes         | - Understand the terms "class variable" and "class method".<br>- Differentiate static traits from instance traits.<br>- Add static traits to your own classes. |
+
 
 
 #### Part 10 - Larger Application Development 
