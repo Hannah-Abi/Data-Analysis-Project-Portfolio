@@ -1,4 +1,4 @@
-**_I completed this course in 2021 far before the chat GPT even exicsted. For my peer, PLEASE try to complete exercises BY YOURSELF before cloning my repo_**
+### **_I completed this course in 2021 far before the chat GPT even exicsted. For my peer, PLEASE try to complete exercises BY YOURSELF before cloning my repo_**
 ## Python Programming - Department  of Computer Science at University of Helsinki
 - The **Intro** file for the course the **Introduction to Programming course (TKT10002, 5 cr)**
   
