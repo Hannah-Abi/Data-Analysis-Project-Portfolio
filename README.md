@@ -1,6 +1,6 @@
-## About Two added courses: Python Programming & Data Analysis with Python
+## About two added courses: Python Programming & Data Analysis with Python
 The courses pushed above have fortified my foundation in Python Programming and Data Analysis within the context of a curriculum tailored for Data Science master's students at the University of Helsinki.
-**NOTE: To my peer, PLEASSE do the assignment BY YOURSELF before checking the answer(cloning my repo)**
+**NOTE: To my peer, PLEASE do the assignment BY YOURSELF before checking the answer (or cloning my repo).**
 ## Data-Analysis-Project-Portfolio
 
 This portfolio showcases a variety of projects, encompassing course final projects, personal interests, collaborations with other data analyst, and also student business project for the Aalto's partner companies
