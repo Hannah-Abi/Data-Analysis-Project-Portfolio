@@ -6,15 +6,14 @@ In this reporatory, you can find:
 The courses pushed above have fortified my foundation in Python Programming and Data Analysis within the context of a curriculum tailored for Data Science master's students at the University of Helsinki.
 **NOTE: To my peer, PLEASE do the assignment BY YOURSELF before checking the answer (or cloning my repo).**
 ### DataCamp Track 
-## Data-Analysis-Project-Portfolio
 - Data Analyst with Python
 - Data Analyst with SQL
     ✓ Write basic SQL queries
     ✓ Group and aggregate data to produce summary statistics
     ✓ Join tables and apply filters and sub-queries
     ✓ Write functions to explore and manipulate data
-
-Data Analysis in Python & SQL
+## Data-Analysis-Project-Portfolio
+### Data Analysis in Python & SQL
 
 | No. | Project | Tools | Software | Level |
 |----------|----------|----------|----------|----------|
@@ -23,7 +22,8 @@ Data Analysis in Python & SQL
 | 3 | [Supercell Game User Analysis](https://github.com/Hannah-Abi/mobile-game-analytics) | Python | JupiterNotebook | Advanced |
 | 5 | [Real-time Insights from Twitter data](https://github.com/Hannah-Abi/Twitter-a-hot-trend) | python | JupiterNotebook | Intermmediate |
 
-Data Analysis in Power BI & Tableau (Checck all Power BI Project in [here](https://github.com/Hannah-Abi/Power-BI-Data-Analysis-Projects.git))
+### Data Analysis in Power BI & Tableau 
+(Checck all Power BI Project in [here](https://github.com/Hannah-Abi/Power-BI-Data-Analysis-Projects.git))
 
 | No. | Project | Tools | Software | Level |
 |----------|----------|----------|----------|----------|
