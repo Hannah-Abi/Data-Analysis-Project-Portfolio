@@ -1,9 +1,18 @@
-## About the courses: Python Programming & Data Analysis with Python
+## Learning Accomlishment 
+In this reporatory, you can find:
+### Programming courses from Data Science - University of Helsinki
+- Python Programming (Advanced)
+- Data Analysis with Python (Advanced)
 The courses pushed above have fortified my foundation in Python Programming and Data Analysis within the context of a curriculum tailored for Data Science master's students at the University of Helsinki.
 **NOTE: To my peer, PLEASE do the assignment BY YOURSELF before checking the answer (or cloning my repo).**
+### DataCamp Track 
 ## Data-Analysis-Project-Portfolio
-
-This portfolio showcases a variety of projects, encompassing course final projects, personal interests, collaborations with other data analyst, and also student business project for the Aalto's partner companies
+- Data Analyst with Python
+- Data Analyst with SQL
+    ✓ Write basic SQL queries
+    ✓ Group and aggregate data to produce summary statistics
+    ✓ Join tables and apply filters and sub-queries
+    ✓ Write functions to explore and manipulate data
 
 Data Analysis in Python & SQL
 
