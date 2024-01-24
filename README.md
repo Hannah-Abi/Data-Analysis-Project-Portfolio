@@ -1,9 +1,7 @@
 ## Learning Accomlishment 
-In this reporatory, you can find:
 ### Programming courses from Data Science - University of Helsinki
 - Python Programming (Advanced)
 - Data Analysis with Python (Advanced)
-The courses pushed above have fortified my foundation in Python Programming and Data Analysis within the context of a curriculum tailored for Data Science master's students at the University of Helsinki.
 **NOTE: To my peer, PLEASE do the assignment BY YOURSELF before checking the answer (or cloning my repo).**
 ### DataCamp Track 
 - **Data Analyst with Python/SQL/Power BI** - each track includes multiple courses 
