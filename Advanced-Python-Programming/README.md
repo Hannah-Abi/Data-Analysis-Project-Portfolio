@@ -25,9 +25,9 @@ There are 6 parts in this course
 #### Part 10 - Larger Application Development 
 | Section                             | Objectives                                                      |
 |--------------------------------------|-----------------------------------------------------------------|
-| Class Hierarchies                   | - Understand the concept of inheritance in programming contexts.<br>- Write classes that inherit from other classes.<br>- Understand how inheritance affects traits in classes.       |
-| Access Modifiers                    | - Understand the concepts of private and protected access modifiers.<br>- Know how visibility of traits is determined in Python.       |
-| Object-Oriented Programming         | - Be familiar with different uses for the variable name "self."<br>- Know how to overload operators in your classes.<br>- Be able to create an iterable class. |
+| Class Hierarchies                   | - Understand the **concept of inheritance** in programming contexts.<br>- Write **classes that inherit from other classes**.<br>- Understand **how inheritance affects traits** in classes.       |
+| Access Modifiers                    | - Understand the **concepts of private and protected access modifiers**.<br>- Know how **visibility of traits** is determined in Python.       |
+| Object-Oriented Programming         | - Be familiar with different uses for the variable **name "self**."<br>- Know how to overload operators in your classes.<br>- Be able to create an iterable class. |
 | Techniques                          | - Understand basic principles of application development.<br>- Differentiate between parts of an application (user interface, program logic, and file handling).<br>- Practice writing somewhat larger applications. |
 
 #### Part 11 - Recursive ALgorithms
