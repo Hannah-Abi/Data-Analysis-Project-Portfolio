@@ -4,13 +4,11 @@
 
 ## What you will learn 
 ### Python programs
-- After the course, you can confidently write basic level Python programs without constantly consulting language/library documentation.
-
+- Upon completion of the course, individuals will be able to write basic-level Python programs with confidence, reducing the reliance on continuous consultation of language and library documentation.
 ### Machine learning types
-- After the course, you will know the main types of machine learning: supervised learning: regression and classification, unsupervised learning:   clustering, dimensionality reduction, (density estimation)
-
+- After completing the course, participants will possess knowledge of the primary types of machine learning, including supervised learning (regression and classification) and unsupervised learning (clustering, dimensionality reduction, and density estimation).
 ### Data analysis projects
-- After the course, you can apply basic data analysis skills to a simple project on an application field
+- After the course, one can apply data analysis skills to a simple project on an application field
 
 ## About this course
 The course covers Python libraries such as NumPy, Pandas, Matplotlib and SciPy. These are used for data cleaning, grouping, creation of summary statistics, and for machine learning tasks such as linear regression, Naive Bayes, PCA, and clustering.
