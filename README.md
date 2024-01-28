@@ -4,7 +4,7 @@
   | No. | Project | Tools | Software | Level |
   |----------|----------|----------|----------|----------|
   | 1 | [Sales KPI metrics for Wolt](https://github.com/Hannah-Abi/Sales-KPIs---delivery-service)| SQL | posgreSQL | Advanced |
-  | 2 | [Sales & Profitability KPIs of MovieNow](https://github.com/Hannah-Abi/Movie-Online-Rentals-Sales) | SQL(main), Python | JupiterNotebook | Advanced | 
+  | 2 | [Sales & Profitability KPIs of MovieNow](https://github.com/Hannah-Abi/Movie-Online-Rentals-Sales) | SQL | JupiterNotebook | Advanced | 
   | 3 | [User Segmentation with RFM score](https://github.com/Hannah-Abi/user-segmentation-analysis-Wolt) | Python | JupiterNotebook | Advanced |
   | 4 | [Supercell Game User Analysis](https://github.com/Hannah-Abi/mobile-game-analytics) | Python | JupiterNotebook | Advanced |
   | 5 | [Real-time Insights from Twitter data](https://github.com/Hannah-Abi/Twitter-a-hot-trend) | python | JupiterNotebook | Intermmediate |
