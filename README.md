@@ -7,7 +7,7 @@
   | 2 | [Sales & Profitability KPIs of MovieNow](https://github.com/Hannah-Abi/Movie-Online-Rentals-Sales) | SQL | JupiterNotebook | Advanced | **Sales** - Sales & Profitability KPIs |
   | 3 | [User Segmentation with RFM score](https://github.com/Hannah-Abi/user-segmentation-analysis-Wolt) | Python | JupiterNotebook | Advanced |**User Analysis** - User Segmentation| 
   | 4 | [Supercell Game User Analysis](https://github.com/Hannah-Abi/mobile-game-analytics) | Python | JupiterNotebook | Advanced | **Gaming** - Game User Analysis | 
-  | 5 | [Real-time Insights from Twitter data](https://github.com/Hannah-Abi/Twitter-a-hot-trend) | python | JupiterNotebook | Intermmediate |Twitter's Users | 
+  | 5 | [Real-time Insights from Twitter data](https://github.com/Hannah-Abi/Twitter-a-hot-trend) | python | JupiterNotebook | Intermmediate |**Social Media** - Twitter's Users | 
   | 6 | [Portfolio Risk Management](https://github.com/Hannah-Abi/Twitter-a-hot-trend) | python | JupiterNotebook | Intermmediate |**Finance**- Portfolio Management | 
 
   #### 2.  Data Analysis in Power BI & Tableau (Checck all Power BI Project in [here](https://github.com/Hannah-Abi/Power-BI-Data-Analysis-Projects.git))
