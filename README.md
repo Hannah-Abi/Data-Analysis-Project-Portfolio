@@ -18,7 +18,7 @@
 | 2 | [Customer Churn Analysis](https://github.com/Hannah-Abi/Power-BI-Data-Analysis-Projects/tree/2909f84d1371ce23f4d772c2df6512b47ea8fed4/Customer%20Churn%20Analysis) | Power BI Desktop | Power BI Desktop | Intermmediate |
 | 3 | [Inventory Analysis](https://github.com/Hannah-Abi/Power-BI-Data-Analysis-Projects/tree/201891352e317bbc792f7cd897a9ca08cb7fec9c/Inventory%20Analysis) | Power BI Desktop | Power BI Desktop | Intermmediate |
 | 4 | [Finnish Tourism Overview](https://github.com/Hannah-Abi/Finnish-tourism-overview) | Power BI Desktop | Power BI Desktop | Advanced |
-| 5 | [Hospital Efficiency Insight](https://github.com/Hannah-Abi/Power-BI-Data-Analysis-Projects/tree/3fcc41c107e500deac8a9b0a189ccabe29aec071/Hospital%20Efficiency%20Insight) | Power BI Desktop | Power BI Desktop | Advanced |
+| 5 | [Hospital Efficiency Insight]([https://github.com/Hannah-Abi/Power-BI-Data-Analysis-Projects/tree/3fcc41c107e500deac8a9b0a189ccabe29aec071/Hospital%20Efficiency%20Insight](https://github.com/Hannah-Abi/portfolio-risk-management.git)) | Power BI Desktop | Power BI Desktop | Advanced |
 
 ## Learning Accomlishment 
 ### Programming courses from Data Science - University of Helsinki
