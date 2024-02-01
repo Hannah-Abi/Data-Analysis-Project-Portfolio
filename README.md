@@ -1,5 +1,5 @@
 ## Data-Analysis-Project-Portfolio
-  #### 1.  Customer/Users Insights, Sales KPIs in Python & SQL
+  #### 1.  Data Analytics in Python and SQL
   
   | No. | Project | Tools | Software | Level |Topic|
   |----------|----------|----------|----------|----------|----------|
